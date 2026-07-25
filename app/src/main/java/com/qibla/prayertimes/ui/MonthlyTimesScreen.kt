@@ -1,5 +1,6 @@
 package com.qibla.prayertimes.ui
-
+import androidx.compose.foundation.layout.LocalLayoutDirection
+import androidx.compose.foundation.layout.LayoutDirection
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
